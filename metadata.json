@@ -1,0 +1,6 @@
+{
+  "name": "UNO Ventajas",
+  "description": "Un divertido clon de UNO con cartas y ventajas brutales de +10, +50 y Bloqueo Doble, con modo de juego de Juez interactivo y bots inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
